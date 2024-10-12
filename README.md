@@ -48,7 +48,7 @@ The dataset contains information from 2020 to 2024 with the following columns:
 
 3. Run the Streamlit app:
    ```bash
-   streamlit run main.py
+   streamlit run Youth_Drug_Analysis.py
 
 ## Usage
 
