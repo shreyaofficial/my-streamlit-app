@@ -39,7 +39,7 @@ The dataset contains information from 2020 to 2024 with the following columns:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/youth-drug-analysis-dashboard.git
+   git clone https://github.com/shreyaofficial/youth-drug-analysis-dashboard.git
    cd youth-drug-analysis-dashboard
 
 2. Install the required packages:
